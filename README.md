@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @fouzia2305
+- 👀 I’m interested in Data Science, Machine Learning, Natural Language Processing, and AI.
+- 🌱 I’m currently learning more about Deep Learning, Large Language Models (LLMs), and advanced NLP techniques.
+- 💞️ I’m looking to collaborate on projects related to AI, NLP, machine learning applications, and data-driven solutions.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love working on real-world Data Science projects and continuously exploring new technologies to enhance problem-solving!
